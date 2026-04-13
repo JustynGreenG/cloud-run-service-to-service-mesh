@@ -1,0 +1,16 @@
+
+{
+  "name": "isolated-service",
+  "version": "1.0.0",
+  "description": "Isolated service.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Duncan Dickinson",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^5.2.0"
+  }
+}

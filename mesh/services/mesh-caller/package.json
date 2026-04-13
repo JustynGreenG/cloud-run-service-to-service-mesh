@@ -1,0 +1,17 @@
+
+{
+  "name": "caller-service",
+  "version": "1.0.0",
+  "description": "Caller service.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Duncan Dickinson",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^5.2.0",
+    "axios":"^1.13.6"
+  }
+}
